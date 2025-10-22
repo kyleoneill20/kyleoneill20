@@ -1,4 +1,5 @@
-## Hi there 👋
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kyleoneill20&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 **kyleoneill20/kyleoneill20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
